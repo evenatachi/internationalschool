@@ -2,7 +2,7 @@
 
 ## Exploratory Data Analysis about Brazil's private schools
 
-#### This project was made by Victor Vilela.
+#### This project was made by Evellin Natachi.
 
 # 1. The Company.
 
