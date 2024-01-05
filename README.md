@@ -46,16 +46,15 @@ My strategy to solve this challenge was inspired by CRIPS-DS <!-- medium -->:
 
 **Hypothesis 01:**
 
-**True/False.**
+**Estratégia voltada a região**
 
 **Hypothesis 02:**
 
-**True/False.**
+**Estratégia voltada a tipo de ensino**
 
 **Hypothesis 03:**
 
-**True/False.**
-
+**Estratégia voltada a UF e bairro com maior número de matriculas**
 # 6. Business Results
 
 # 7. Conclusions
